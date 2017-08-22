@@ -11,7 +11,10 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Notes on UX & dev life I want to file as I travel the Treehouse Front-End Tech Degree and Bloc Design Bootcamp.</p>
+     <p>Notes on UX & my dev journey.
+     <br>
+     Treehouse Front-End Tech Degree Summer 2017 // <br>
+     Bloc Design Bootcamp Fall 2017 - </p>
 
   header_text_feature_image:
   footer_text: >
