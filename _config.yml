@@ -11,11 +11,14 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Notes on UX & my dev journey.</p>
+     <p>Notes on UX & my dev journey.
+     <br>// Treehouse Front-End Tech Degree - Summer 2017
+     <br>// Bloc Design Bootcamp - Fall 2017</p>
 
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+   Made with &hearts; in Denver, Colorado<br>
+   Forked & Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
@@ -28,7 +31,7 @@ theme_settings:
   github: "arleighco"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin: "https://www.linkedin.com/in/arleighgreenwald" # Full URL
   pinterest:
   reddit:
   soundcloud:
