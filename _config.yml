@@ -11,10 +11,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Notes on UX & my dev journey.
-     <br>
-     Treehouse Front-End Tech Degree Summer 2017 // <br>
-     Bloc Design Bootcamp Fall 2017 - </p>
+     <p>Notes on UX & my dev journey.</p>
 
   header_text_feature_image:
   footer_text: >
