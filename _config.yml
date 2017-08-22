@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 theme_settings:
   # Meta
   title: UX Life & Notes
-  avatar: avatar.png
+  avatar: https://avatars1.githubusercontent.com/u/13043093?v=4&s=460
   gravatar: # Email MD5 hash
   description: "A blog to track my UX and dev journey" # used by search engines
 
@@ -31,7 +31,7 @@ theme_settings:
   github: "arleighco"
   google_plus:
   instagram:
-  linkedin: "https://www.linkedin.com/in/arleighgreenwald" # Full URL
+  linkedin: https://www.linkedin.com/in/arleighgreenwald # Full URL
   pinterest:
   reddit:
   soundcloud:
