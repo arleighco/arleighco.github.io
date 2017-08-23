@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Treehouse Front-End Project 1
+title: First Treehouse Front-End Project
 date: 2017-08-23 18:16:01 -0600
 ---
-<h2>First Treehouse Front-End Project</h2>
 <p>A pretty basic and straight forward customizing of existing code to create my own personal profile page.</p>
 <p>I decided to go for the extra credit by adding pages, customizing a few CSS classes and adding additional images</p>
 
