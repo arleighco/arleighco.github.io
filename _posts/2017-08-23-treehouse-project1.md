@@ -24,7 +24,7 @@ date: 2017-08-23 18:16:01 -0600
 <p><strong>Submitted - Fingers Crossed!</strong>
 <br>
 <br>
-Project repository can be found <a href="https://github.com/arleighco/portfolio" target="new" title="Arleigh's Treehouse Project 1">here</a>
+Project repository can be found <a href="https://github.com/arleighco/portfolio" target="new" title="Arleigh's Treehouse Project 1">here</a>un
 </p>
 
 >arleigh
